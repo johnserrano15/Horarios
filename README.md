@@ -16,6 +16,9 @@ date_to_convert = "2020-11-17 21:00:00"
 python3 horarios.py
 ```
 
+[Emojis banderas](https://es.piliapp.com/emoji/list/flags/)
+
+
 ### Contribuir
 
 Si alguien quiere agregar o mejorar algo, puede hacerlo directamente en este repositorio: [Horarios](https://github.com/freddier/Horarios/)
